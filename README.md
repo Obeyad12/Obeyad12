@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Obeyad and I'm a Computer Engineering Student from Toronto 🇨🇦</h2>
+
 
 # 👋 Hi, I'm Obeyad
 

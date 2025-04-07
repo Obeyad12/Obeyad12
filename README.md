@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Obeyad and I'm a Computer Engineering Student from Toronto 🇨🇦</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=obeyad12&theme=dark&hide_border=false)
+
 
 
 
@@ -77,3 +77,5 @@
 - 🧠 **CPU From Scratch**: Designed a basic processor in VHDL using Quartus.
 
 ---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=obeyad12&theme=dark&hide_border=false)

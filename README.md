@@ -1,6 +1,22 @@
 <h2 align="left">Hi 👋! My name is Obeyad and I'm a Computer Engineering Student from Toronto 🇨🇦</h2>
+---
 
+### 🧠 Languages & Tools I Use
+- 💻 Languages: JavaScript, Python, Dart, VHDL, C, HTML, CSS
+- ⚙️ Frameworks & Libraries: React, Flutter, Tailwind, Node.js
+- 🧰 Tools: Supabase, Retool, GitHub, Figma, Arduino, WordPress
 
+---
+
+### 📌 Highlight Projects
+- 🏋️‍♀️ **Fitness App**: Built with Flutter & Dart. Tracks calories, meal plans, and workouts.
+- 📊 **Retool Dashboard**: Internal analytics app with filtering, search, and PDF export.
+- 🧠 **CPU From Scratch**: Designed a basic processor in VHDL using Quartus.
+
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=obeyad12&theme=dark&hide_border=false)
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=obeyad12&theme=dracula)
 ###
 
 <div align="center">

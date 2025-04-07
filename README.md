@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Obeyad
 
 I'm a **Computer Engineering student at Toronto Metropolitan University** with a strong foundation in software development, systems design, and building digital solutions that make a difference. I’ve worked on web and Android apps, database-driven analytics tools, and even hardware projects like creating a CPU from scratch.

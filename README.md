@@ -54,16 +54,16 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 ### 🚀 Projects
 
 - 🏋️‍♀️ **Fitness App (Anime Style)**  
-  Cross-platform fitness app built with **Flutter & Dart**. Tracks calories, meal plans, and workouts.
+  Cross-platform fitness app built with **Flutter & Dart**. Tracks workouts.
 
 - 📊 **Analytics Dashboard (Retool)**  
   A Retool-powered dashboard showing job/user/company analytics with filtering, PDF export, and time-based comparisons.
 
+- 🌐 **Portfolio Website**
+  A personal portfolio built with HTML, Tailwind, and JavaScript, showcasing projects, resume, and contact form. Designed for responsiveness and recruiter accessibility.
+
 - 🔌 **Simple CPU (Quartus & VHDL)**  
   Designed a simple CPU using VHDL for coursework. Included architectural design, control logic, and simulation.
-
-- 🍽️ **OpenDish (In Progress)**  
-  Kotlin app comparing home-cooked meals vs restaurant meals. Includes calorie, cost tracking, and a Bangladesh map feature.
 
 ---
 
@@ -76,7 +76,7 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 Commits
 
 <img src="https://raw.githubusercontent.com/obeyad12/obeyad12/output/snake.svg" alt="Snake animation" />
 

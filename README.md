@@ -39,7 +39,7 @@ I'm a **Computer Engineering student at Toronto Metropolitan University** with a
 ### 🔧 Skills Overview
 
 **Languages & Frameworks:**  
-Kotlin, JavaScript, Python, Dart, HTML, CSS, SQL, React, Node.js, Tailwind, Flutter, VHDL
+Python, Dart, HTML, CSS, SQL, React, Node.js, Tailwind, Flutter, VHDL, Kotlin, JavaScript
 
 **Platforms & Tools:**  
 GitHub, Supabase, Retool, Figma, Strapi, Firebase, Jetpack Compose

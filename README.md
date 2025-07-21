@@ -68,8 +68,12 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=obeyad12&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=obeyad12&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=obeyad12&theme=algolia&no-frame=true&margin-w=5&margin-h=5" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=obeyad12&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -93,4 +97,4 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 
 ---
 
-> “I don’t just meet expectations—I learn fast, adapt faster, and thrive where others stop trying.”
+> I don’t just meet expectations... I learn fast, adapt faster, and thrive where others stop trying.

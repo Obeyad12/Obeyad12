@@ -63,20 +63,7 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 - 🔌 **Simple CPU (Quartus & VHDL)**  
   Designed a simple CPU using VHDL for coursework. Included architectural design, control logic, and simulation.
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obeyad12&theme=algolia&no-frame=true&margin-w=5&margin-h=5" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=obeyad12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
 
 ### 🐍 Commits
 
@@ -93,6 +80,21 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
   <a href="https://www.linkedin.com/in/obeyad-a-n-m-anowarul-6a6608236/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+</div>
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obeyad12&theme=algolia&no-frame=true&margin-w=5&margin-h=5" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=obeyad12&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---

@@ -92,7 +92,7 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
   <img src="https://github-profile-trophy.vercel.app/?username=obeyad12&theme=algolia&no-frame=true&margin-w=5&margin-h=5" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=obeyad12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />  -->
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>

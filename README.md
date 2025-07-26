@@ -85,7 +85,7 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 ---
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">

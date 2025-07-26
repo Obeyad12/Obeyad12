@@ -63,7 +63,7 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 - 🔌 **Simple CPU (Quartus & VHDL)**  
   Designed a simple CPU using VHDL for coursework. Included architectural design, control logic, and simulation.
 
-
+---
 
 ### 🐍 Commits
 
@@ -82,10 +82,11 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
   </a>
 </div>
 
+<!--
 ---
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -93,10 +94,11 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=obeyad12&show_icons=true&theme=radical" />
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeyad12&layout=compact&theme=radical" />  -->
+<!--
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
+-->
 ---
 
 > I don’t just meet expectations... I learn fast, adapt faster, and thrive where others stop trying.

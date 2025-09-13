@@ -29,7 +29,7 @@ Mobile alarm clock robot (Arduino Mega) with RTC + LCD + obstacle avoidance.
 - Forces you to **chase it** to dismiss alarm.  
 - Ultrasonic sensors, H-bridge motor control, buzzer, and rear dismiss button.  
 
-#### 🔐 [reCAPTCHA](https://github.com/Obeyad12/reCAPTCHA)  
+#### 🔐 [reCAPTCHA](https://github.com/Obeyad12/reCAPCHA)  
 A **full-stack web app** that helps students convert their notes into quizzes for more effective studying.  
 - Based on the lecture Recapcha intelligently generates quiz questions.  
 - Reinforces learning by testing memory and improving study retention.  

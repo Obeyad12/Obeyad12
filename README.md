@@ -2,18 +2,48 @@
 
 I'm a **Computer Engineering student at Toronto Metropolitan University** with a strong foundation in software development, systems design, and building digital solutions that make a difference. I’ve worked on web and Android apps, database-driven analytics tools, and even hardware projects like creating a CPU from scratch.
 
-🌟 **Quick Facts:**
-- 🧠 I love learning fast—give me a challenge and I’ll master it.
-- 💡 I thrive in pressure, bring original ideas, and constantly strive to improve.
-- 🧑‍💻 Most recently, I built internal analytics tools on **Retool** and used **Supabase** for backend logic at **Civiconnect**.
-- 📱 I developed an anime-style fitness app using **Flutter & Dart**, and worked on an **admin dashboard** for **Nurse Recruit**.
-- 🔌 I’ve created a simple CPU using **VHDL** and done circuit design with **Quartus**.
+## 💪 Core Strengths
+- 🧩 **Problem Solving:** Thrive under pressure, with a track record of debugging complex hardware/software issues.  
+- 💡 **Innovation:** Bring original ideas and enjoy designing creative solutions.  
+- ⚡ **Adaptability:** Fast learner who picks up new tools and frameworks quickly.  
+- 🤝 **Collaboration:** Experienced communicator across cross-functional teams in **professional environments**, ensuring smooth coordination and successful project delivery. 
+
 
 ---
 
-<br clear="both" />
+### 🔥 Featured Projects
 
-<img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FxeWI4cWJpcnhxbm1oYmtjeXJtNGJoZ2pmamoydW50eXBkbzloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aPuY0iblEJupNGrWL/giphy.gif" />
+#### 🔌 [CPU-Design-Implementation-on-FPGA](https://github.com/Obeyad12/CPU-Design-Implementation-on-FPGA)  
+An **8-bit CPU** built with **VHDL** (with Verilog testbenches) that integrates a datapath, ALU, and FSM controller.  
+- Developed and simulated in **ModelSim** to verify functionality and timing.  
+- Synthesized in **Altera Quartus** and deployed on an FPGA development board.  
+- Validated on hardware using **7-segment displays** for real-time output.  
+
+#### ⚽ [Soccer-Robot](https://github.com/Obeyad12/Soccer-Robot)  
+Arduino Nano-powered **remote-controlled soccer robot**.  
+- CAD + 3D printed chassis optimized for grip/durability.  
+- Won **Best Design Award** at TMU Engineering Competition.  
+
+#### ⏰ [Alarm-E](https://github.com/Obeyad12/Alarm-E)  
+Mobile alarm clock robot (Arduino Mega) with RTC + LCD + obstacle avoidance.  
+- Forces you to **chase it** to dismiss alarm.  
+- Ultrasonic sensors, H-bridge motor control, buzzer, and rear dismiss button.  
+
+#### 🔐 [reCAPTCHA](https://github.com/Obeyad12/reCAPTCHA)  
+A **full-stack web app** that helps students convert their notes into quizzes for more effective studying.  
+- Based on the lecture Recapcha intelligently generates quiz questions.  
+- Reinforces learning by testing memory and improving study retention.  
+- Built with modern JavaScript frameworks for responsive, user-friendly performance.   
+
+---
+
+## 🚀 Currently Working On
+### Stock Shock – Classroom Learning Platform  
+- 🖥️ Building and deploying a **classroom learning platform** with React 19, TypeScript, Zustand, and Tailwind CSS, integrating educational games to improve engagement and reduce learning fatigue.  
+- ⚙️ Streamlining multi-feature development with **GitHub workflows**, reducing integration errors and supporting continuous delivery.  
+- ♿ Designing **accessibility-first UI components** (Headless UI, React Hook Form + Zod), reducing form errors and improving onboarding reliability.  
+- 🎮 Introducing **gamification** to financial education, positioning the platform for potential adoption by large education boards (e.g., TDSB).  
+---
 
 ### 🛠️ Languages & Tools
 <div align="left">
@@ -23,47 +53,33 @@ I'm a **Computer Engineering student at Toronto Metropolitan University** with a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" />
 </div>
 
+### 🚀 Other Projects
+- 🌐 **Portfolio Website** — Personal site built with HTML, Tailwind, and JavaScript.  
+- 🏋️‍♀️ **Fitness App (Anime Style)** — Flutter & Dart cross-platform app for workout tracking.  
+- 📊 **Analytics Dashboard (Retool)** — Job/user analytics with filters, PDF export, and Supabase backend.  
+
+
 ---
 
-### 🔧 Skills Overview
+## 🔧 Skills Overview
 
-**Languages & Frameworks:**  
-Python, Dart, HTML, CSS, SQL, React, Node.js, Tailwind, Flutter, VHDL, Kotlin, JavaScript
+**Software Development:**  
+Python, Dart, JavaScript (ES6+), TypeScript, React 19, Node.js, Tailwind CSS, Zustand, Flutter, Kotlin, C, C#, SQL, HTML, CSS  
 
 **Platforms & Tools:**  
-GitHub, Supabase, Retool, Figma, Strapi, Firebase, Jetpack Compose
+GitHub, GitHub Actions/Workflows, Supabase, Retool, Firebase, Strapi, Figma, Canva, Jetpack Compose, WordPress  
 
-**Soft Skills:**  
-Problem Solving, Communication, Fast Learning, Perseverance, Innovation
+**Hardware & Systems:**  
+VHDL, Verilog (20+ RTL circuit designs, self-checking testbenches, sequential logic & memories), Arduino, FPGA (Quartus, ModelSim)  
 
----
 
-### 🚀 Projects
 
-- 🏋️‍♀️ **Fitness App (Anime Style)**  
-  Cross-platform fitness app built with **Flutter & Dart**. Tracks workouts.
-
-- 📊 **Analytics Dashboard (Retool)**  
-  A Retool-powered dashboard showing job/user/company analytics with filtering, PDF export, and time-based comparisons.
-
-- 🌐 **Portfolio Website**
-  A personal portfolio built with HTML, Tailwind, and JavaScript, showcasing projects, resume, and contact form. Designed for responsiveness and recruiter accessibility.
-
-- 🔌 **Simple CPU (Quartus & VHDL)**  
-  Designed a simple CPU using VHDL for coursework. Included architectural design, control logic, and simulation.
-
----
 
 ### 🐍 Commits
 
@@ -101,4 +117,4 @@ Problem Solving, Communication, Fast Learning, Perseverance, Innovation
 -->
 ---
 
-> I don’t just meet expectations... I learn fast, adapt faster, and thrive where others stop trying.
+> I don’t just meet expectations... I learn fast, adapt faster, and thrive in environments where others might give up.
